@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "METAPHOR_API_KEY": "@metaphor_api_key"
+    }
+  }
+}
